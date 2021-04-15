@@ -1,13 +1,14 @@
+/* Horiseon Style Sheet */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
-
+/* Body background color */
 body {
   background-color: #d9dcd6;
 }
-
+/* Header styles */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -128,7 +129,7 @@ p {
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
 }
-
+/* Footer styles */
 .footer h2 {
   font-size: 20px;
 }
