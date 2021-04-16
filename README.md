@@ -11,7 +11,7 @@ No installation specification needed.
 ## Usage
 
 Path to screen shot of application.
-`md ![SEO](Code-Refactor/assets/images/SEO) `
+![SEO](./assets/images/SEO.png) `
 
 ## Credits
 
