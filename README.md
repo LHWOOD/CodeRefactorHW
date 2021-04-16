@@ -11,7 +11,7 @@ No installation specification needed.
 ## Usage
 
 Path to screen shot of application.
-![SEO](./assets/images/SEO.png) `
+![screenshot](./assets/images/SEO.png) `
 
 ## Credits
 
