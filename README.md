@@ -13,6 +13,9 @@ No installation specification needed.
 Path to screen shot of application.
 ![screenshot](./assets/images/SEO.png) `
 
+Link to page.
+https://lhwood.github.io/CodeRefactorHW/
+
 ## Credits
 
 I consulted www.w3schools.com for tutorials on semantic elements.
